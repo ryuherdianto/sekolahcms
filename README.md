@@ -41,13 +41,7 @@
 
 <div align="center">
 
-| Beranda Publik | Dashboard Admin |
-|:---:|:---:|
-| _Screenshot akan ditambahkan_ | _Screenshot akan ditambahkan_ |
-
-| Editor Berita | Manajemen Galeri |
-|:---:|:---:|
-| _Screenshot akan ditambahkan_ | _Screenshot akan ditambahkan_ |
+<img src="https://github.com/ryuherdianto/sekolahcms/blob/main/index.jpg?raw=true" alt="Dashboard" width="80%">
 
 </div>
 
