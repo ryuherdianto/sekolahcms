@@ -1,0 +1,8 @@
+# Konfigurasi GitHub Sponsor button
+# Akan menampilkan tombol "Sponsor" di header repository
+
+# Trakteer (platform donasi Indonesia)
+custom: ["https://trakteer.id/rizha_yuherdianto"]
+
+# GitHub Sponsors — uncomment ketika Indonesia sudah didukung
+# github: [ryuherdianto]
