@@ -301,6 +301,59 @@ SekolahCMS dibangun dari inspirasi dan kontribusi banyak pihak:
 
 ---
 
+<!--
+====================================================================
+SECTION DUKUNGAN - Untuk ditambahkan ke README.md
+====================================================================
+Letakkan section ini di README.md, persis SEBELUM section "📜 Lisensi"
+(atau sebelum closing div terakhir)
+====================================================================
+-->
+
+---
+
+## ☕ Dukung Pengembangan
+
+SekolahCMS dibangun dan di-maintain di waktu luang sebagai kontribusi untuk dunia pendidikan Indonesia. Jika project ini membantu sekolah Anda, mohon pertimbangkan untuk mendukung pengembangan agar tetap aktif dan **selamanya gratis** untuk semua sekolah:
+
+<div align="center">
+
+<a href="https://trakteer.id/rizha_yuherdianto" target="_blank">
+  <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png?v=04-12-2024" alt="Trakteer Saya" height="50">
+</a>
+
+<br><br>
+
+**[☕ Dukung via Trakteer](https://trakteer.id/rizha_yuherdianto)**
+
+</div>
+
+### Cara Lain untuk Mendukung
+
+Tidak harus dalam bentuk uang — kontribusi non-finansial juga sangat berarti:
+
+- ⭐ **Kasih bintang** repository ini
+- 🐛 **Lapor bug** atau usulkan fitur via [Issues](https://github.com/ryuherdianto/sekolahcms/issues)
+- 📢 **Share ke sekolah lain** yang membutuhkan
+- 📝 **Tulis review** atau blog post tentang SekolahCMS
+- 🤝 **Berkontribusi kode/dokumentasi** lihat [CONTRIBUTING.md](CONTRIBUTING.md)
+- 💬 **Aktif di [Discussions](https://github.com/ryuherdianto/sekolahcms/discussions)** bantu jawab pertanyaan user lain
+
+### 🎁 Penggunaan Donasi
+
+100% donasi yang masuk akan digunakan untuk:
+
+- 🖥️ Server demo & testing environment
+- 📚 Pembuatan dokumentasi & tutorial video
+- 🔒 Audit keamanan berkala
+- 🎨 Asset (icon, illustration, screenshot)
+- ☕ Kopi untuk maintainer agar tetap produktif 😄
+
+Setiap donasi, sekecil apapun, sangat berarti. Terima kasih! 🙏
+
+
+---
+
 ## 📜 Lisensi
 
 SekolahCMS dirilis di bawah lisensi [**GPL-3.0**](LICENSE).
