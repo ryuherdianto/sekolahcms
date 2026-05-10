@@ -293,6 +293,102 @@ SekolahCMS dibangun dari inspirasi dan kontribusi banyak pihak:
 - **MySQL Team** — Database engine
 - **Komunitas open-source Indonesia** — Inspirasi & dukungan
 
+<!--
+====================================================================
+SECTION LAYANAN SETUP - Untuk ditambahkan ke README.md
+====================================================================
+Letakkan section ini di README.md, persis SEBELUM section "☕ Dukung Pengembangan"
+(atau setelah section "🌐 Live Demo")
+====================================================================
+-->
+
+---
+
+## 🛠️ Tidak Mau Ribet Setup Sendiri?
+
+Sudah download SekolahCMS tapi pusing dengan command line? Bingung setup VPS, install Apache, atau konfigurasi domain? **Tenang, kami siap bantu.**
+
+Cocok untuk:
+- 🏫 **Kepala Sekolah** yang ingin website jadi cepat tanpa harus mempelajari teknis IT
+- 👨‍🏫 **Tim IT Sekolah** yang sibuk dengan tugas lain dan butuh setup yang siap pakai
+- 🚀 **Sekolah baru** yang ingin website online dalam hitungan hari, bukan minggu
+
+### 💼 Layanan yang Tersedia
+
+<table>
+<tr>
+<td>🖥️</td>
+<td><strong>Setup Server VPS</strong> dari nol — pemilihan provider, instalasi OS, security hardening</td>
+</tr>
+<tr>
+<td>📦</td>
+<td><strong>Instalasi SekolahCMS</strong> + konfigurasi sesuai identitas sekolah</td>
+</tr>
+<tr>
+<td>🌐</td>
+<td><strong>Setup Domain & DNS</strong> — pemilihan, registrasi, dan pointing ke server</td>
+</tr>
+<tr>
+<td>🔒</td>
+<td><strong>Install SSL/HTTPS</strong> via Let's Encrypt (gratis, auto-renewal)</td>
+</tr>
+<tr>
+<td>🔄</td>
+<td><strong>Migrasi dari hosting lama</strong> — transfer data tanpa kehilangan konten</td>
+</tr>
+<tr>
+<td>🎨</td>
+<td><strong>Custom Modifikasi</strong> — sesuaikan warna, layout, atau tambah fitur khusus</td>
+</tr>
+<tr>
+<td>🎓</td>
+<td><strong>Training Admin Sekolah</strong> — cara pakai CMS untuk staff (1-2 sesi online)</td>
+</tr>
+<tr>
+<td>💾</td>
+<td><strong>Setup Backup Otomatis</strong> — daily backup dengan rotasi 7 hari</td>
+</tr>
+<tr>
+<td>🛡️</td>
+<td><strong>Maintenance & Support Bulanan</strong> — update keamanan, monitoring, troubleshooting</td>
+</tr>
+</table>
+
+### 🌍 Layanan 100% Online
+
+Tidak peduli sekolah Anda di Aceh, Papua, atau di antara keduanya — kami melayani **seluruh Indonesia secara remote** via WhatsApp dan AnyDesk. Tidak perlu meeting tatap muka, tidak perlu antri.
+
+### 💬 Konsultasi Gratis
+
+Punya pertanyaan? Belum yakin paket mana yang cocok? **Konsultasi awal sepenuhnya gratis** — kami akan analisa kebutuhan sekolah Anda dan kasih rekomendasi yang sesuai dengan budget.
+
+<div align="center">
+
+<a href="https://wa.me/6287779049421?text=Halo,%20saya%20tertarik%20dengan%20layanan%20setup%20SekolahCMS.%20Bisa%20konsultasi?" target="_blank">
+  <img src="https://img.shields.io/badge/💬_Konsultasi_via_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="50">
+</a>
+
+<br>
+
+**📱 +62 877-7904-9421**
+
+*Respon cepat di jam kerja (08.00 - 21.00 WIB)*
+
+</div>
+
+### 🎁 Yang Anda Dapatkan
+
+✅ Website sekolah online & siap pakai
+✅ HTTPS aktif (gembok hijau di browser)
+✅ Panel admin yang sudah dikonfigurasi
+✅ Backup otomatis tersetting
+✅ Training penggunaan untuk tim sekolah
+✅ Garansi support pasca-instalasi
+
+> 💡 **Catatan:** SekolahCMS sendiri **100% gratis dan open source**. Yang berbayar adalah jasa setup, instalasi, dan dukungan teknis — opsional kalau Anda merasa lebih efisien diserahkan ke yang sudah berpengalaman. Tidak ada vendor lock-in: kapanpun Anda mau migrasi atau handle sendiri, semua kode dan data tetap milik sekolah Anda.
+
+---
+
 ---
 
 <!--
