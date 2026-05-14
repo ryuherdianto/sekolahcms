@@ -1,3 +1,54 @@
+## [1.1.0] - 2026-05-14
+
+### Added
+
+#### Frontend (Visitor-facing)
+- **Floating Contact Widget** — pojok kanan bawah, auto-open 1 detik per session
+  - 8 ikon kontak: Lokasi, Email, Form Kontak, WhatsApp, Instagram, Facebook, YouTube, TikTok
+  - Inline form WhatsApp — visitor isi pesan → buka wa.me dengan pesan pre-filled
+  - Field telepon fixed line di footer
+  - Mobile responsive
+
+- **Global Search Modal** — modal full-width tengah layar
+  - Trigger: icon kaca pembesar di navbar atau shortcut `Cmd/Ctrl + K`
+  - Realtime search dengan debounce 300ms
+  - Pencarian di 5 tipe konten: berita, halaman, galeri, prestasi, pengumuman
+  - 5 hasil per tipe dengan thumbnail, snippet, dan highlight keyword
+  - Keyboard navigation (↑/↓/Enter/ESC)
+  - Anchor scroll + highlight untuk hasil galeri/prestasi/pengumuman
+
+- **PDF Lihat Button** di Lampiran Halaman
+  - Tombol "Lihat" di samping Download untuk file PDF
+  - Toggle inline iframe embed (lazy loaded)
+  - Mobile fallback: hanya Download (embed di mobile UX buruk)
+
+#### Backend (Admin & API)
+- **Global Search API** (`/cms/api/search.php`)
+  - Query 5 tabel publik dengan smart snippet extraction
+  - Title match prioritized
+  - HTML stripped untuk konteks pencarian
+
+- **Field WhatsApp** di admin Profil Sekolah
+  - Auto-detect format mobile (08xx/628xx → wa.me)
+
+### Security
+- `.htaccess` di `uploads/lampiran/`:
+  - Disable PHP & script execution
+  - Force download untuk HTML, SVG, XML, JS (XSS prevention)
+  - PDF cache 30 hari (performance)
+  - Security headers (nosniff, referrer-policy)
+- `.htaccess` files now version-controlled (persistent across deployments)
+
+### Changed
+- Trigger search button positioned rightmost in navbar
+- Lampiran items now have separate Download + Lihat buttons (previously: single download link)
+
+### Performance
+- Search API uses indexed columns + LIMIT for fast response
+- PDF iframe lazy-loaded (only when "Lihat" clicked)
+
+---
+
 # 📝 Changelog
 
 Semua perubahan penting di SekolahCMS dicatat di sini.
