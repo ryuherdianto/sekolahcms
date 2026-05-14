@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="https://github.com/ryuherdianto/sekolahcms/blob/main/banner.jpg?raw=true" alt="Dashboard" width="80%">
 # 🏫 SekolahCMS
 
 ### Sistem Manajemen Konten Modern, Aman, dan Gratis untuk Sekolah Indonesia
@@ -32,18 +33,6 @@
 - 💰 **100% gratis** — Open source di bawah lisensi GPL-3.0
 
 > *"Membangun website sekolah seharusnya tidak butuh budget puluhan juta atau tim developer 10 orang. SekolahCMS membuktikan itu."*
-
----
-
-## 📸 Tampilan
-
-<!-- TODO: Upload screenshot setelah ready -->
-
-<div align="center">
-
-<img src="https://github.com/ryuherdianto/sekolahcms/blob/main/index.jpg?raw=true" alt="Dashboard" width="80%">
-
-</div>
 
 ---
 
