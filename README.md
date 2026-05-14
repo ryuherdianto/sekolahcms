@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://github.com/ryuherdianto/sekolahcms/blob/main/banner.jpg?raw=true" alt="Dashboard" width="80%">
-# 🏫 SekolahCMS
 
 ### Sistem Manajemen Konten Modern, Aman, dan Gratis untuk Sekolah Indonesia
 
